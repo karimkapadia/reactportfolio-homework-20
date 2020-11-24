@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactportfolio-homework-20/static/css/main.1946a4b3.chunk.css",
+    "main.js": "/reactportfolio-homework-20/static/js/main.c8fa5641.chunk.js",
+    "main.js.map": "/reactportfolio-homework-20/static/js/main.c8fa5641.chunk.js.map",
+    "runtime-main.js": "/reactportfolio-homework-20/static/js/runtime-main.8d1134ba.js",
+    "runtime-main.js.map": "/reactportfolio-homework-20/static/js/runtime-main.8d1134ba.js.map",
+    "static/js/2.11ce8135.chunk.js": "/reactportfolio-homework-20/static/js/2.11ce8135.chunk.js",
+    "static/js/2.11ce8135.chunk.js.map": "/reactportfolio-homework-20/static/js/2.11ce8135.chunk.js.map",
+    "static/js/3.f4836ea4.chunk.js": "/reactportfolio-homework-20/static/js/3.f4836ea4.chunk.js",
+    "static/js/3.f4836ea4.chunk.js.map": "/reactportfolio-homework-20/static/js/3.f4836ea4.chunk.js.map",
+    "index.html": "/reactportfolio-homework-20/index.html",
+    "static/css/main.1946a4b3.chunk.css.map": "/reactportfolio-homework-20/static/css/main.1946a4b3.chunk.css.map",
+    "static/js/2.11ce8135.chunk.js.LICENSE.txt": "/reactportfolio-homework-20/static/js/2.11ce8135.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d1134ba.js",
+    "static/js/2.11ce8135.chunk.js",
+    "static/css/main.1946a4b3.chunk.css",
+    "static/js/main.c8fa5641.chunk.js"
+  ]
+}
